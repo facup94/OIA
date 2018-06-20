@@ -5,7 +5,7 @@ Al principio van a ser en su mayoría problemas del Juez online oficial, ya que 
 
 Este "proyecto" va a estar detenido una gran parte del tiempo (como si los otros no, duh), es puramente de ocio.
 
-Solved so far:  
+Solved so far:
 * [a_mas_b](http://juez.oia.unsam.edu.ar/#/task/a_mas_b/statement)  
 * [que_tan_lejos](http://juez.oia.unsam.edu.ar/#/task/que_tan_lejos/statement)  
 * [cuantos_cursos_entran](http://juez.oia.unsam.edu.ar/#/task/cuantos_cursos_entran/statement)  
